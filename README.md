@@ -1,2 +1,2 @@
 # QI4A
-Fork of QI4A by https://play.google.com/store/apps/details?id=com.n0n3m4.Q4A
+A source port of Quake I, originally developed by n0n3m4
